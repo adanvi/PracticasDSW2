@@ -1,0 +1,33 @@
+#Encabezado{
+    width:auto;
+    height: 10%;
+    background-color: chartreuse;
+}
+#Menu{
+    width:auto;
+    height: 10%;
+    background-color: darkolivegreen;
+}
+#Publicidad{
+    width:20%;
+    height: 70%;
+    float: left;
+    background-color: cyan;
+}
+#Contenido{
+    width:60%;
+    height: 70%;
+    float: left;
+    background-color: yellow;
+}
+#Link{
+    width:20%;
+    height: 70%;
+    float: left;
+    background-color: cyan;
+}
+#Pie{
+    width:auto;
+    height: 10%;
+    background-color: fuchsia;
+}
